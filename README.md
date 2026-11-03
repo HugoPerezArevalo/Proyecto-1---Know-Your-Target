@@ -1,7 +1,7 @@
 # Proyecto 1 · Know Your Target
 
 **Autor:** Hugo Pérez Arévalo.  
-**Asignatura / Módulo:** Auditoría de Seguridad / Hacking Ético  
+**Módulo:** Hacking Ético  
 **Fecha de consulta:** 30/10/2026  
 
 ---
