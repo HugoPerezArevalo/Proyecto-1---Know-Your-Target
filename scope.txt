@@ -1,0 +1,9 @@
+# scope.txt · programa: Kiwi.com · consultado: 28/10/2026
+
+# En alcance:
+*.kiwi.com
+*.skypicker.com
+
+# Fuera de alcance (no se toca):
+!skypicker-984.firebaseio.com
+!kiwi-debug.firebaseio.com
